@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<sensor>
+	<name>apollo(TM)</name>
+	<version>H4-R1.0</version>
+	<id>H6W1FULLBPF0000000001</id>
+	<customer>customer</customer>
+	<data_root_path>./config</data_root_path>
+	<syn_data_file>wmdata.dat</syn_data_file>
+	<fr_data_file>filterresponse.fr</fr_data_file>
+	<darkmap_data_file>darkdatamap.bin</darkmap_data_file>
+	<blackwhite_data_file>bwdata.bin</blackwhite_data_file>
+	<adc_range_value>132</adc_range_value>
+	<use_rdc>1</use_rdc>
+	<description>Last engineering version</description>
+</sensor>
